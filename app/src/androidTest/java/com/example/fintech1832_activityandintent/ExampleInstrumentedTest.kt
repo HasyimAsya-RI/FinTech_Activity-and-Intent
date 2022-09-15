@@ -1,4 +1,4 @@
-package com.example.fintech_2activityandintent
+package com.example.fintech1832_activityandintent
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

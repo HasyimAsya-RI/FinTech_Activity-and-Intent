@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "FinTech - 2 Activity and Intent"
+rootProject.name = "FinTech2 - Activity and Intent"
 include ':app'

@@ -1,4 +1,4 @@
-package com.example.fintech_2activityandintent
+package com.example.fintech1832_activityandintent
 
 import org.junit.Test
 
